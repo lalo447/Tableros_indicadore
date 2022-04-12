@@ -112,7 +112,7 @@
                  <li class="dropright">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
 		<span class="icon"><i class="fas fa-archive"></i></span>
-		<span class="text text-white">Cuerpos academicos</span>
+		<span class="text text-white">Cuerpos academicoss</span>
 		</a>
                  <div class="dropdown-menu" style="background: #222C32">
                 <a class="dropdown-item" href="./Tableros_cuerpos_academicos"><i class="fas fa-paste"></i> Ver tableros de cuerpos academicos</a>
